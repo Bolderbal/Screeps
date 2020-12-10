@@ -1,7 +1,7 @@
 # Screeps
 My screeps code
 
-NOTE: I am a complete noob, both in screeps as well as JavaScript.
+NOTE: I am a complete noob, both in screeps as well as programming/JavaScript.
 I do everything by trail and error and there are probably many ways my code can be improved.
 
 Here's some things that I learned along the way:
