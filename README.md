@@ -8,7 +8,7 @@ I'm pretty proud of my room.mapping() function. It takes a room name and a wind 
 So if you call room.mapping('W10N4', 'northWest') it returns 'W11N4'
 It sould work on all room name formats (//WxxNxx WxxNx WxNxx WxNx and all those with S and E as well) This was a small challenge because if you go west on W10N4, the first number increases (W11N4) but if you go west on E10N4, the frist number decreases (E9N4)
 Also, this code doesnt work if your input is has a zero value (for example W11N0) since it will return W11N-1, instead of switching to W11S0 
-    I should probably fix that some time
+    I should probably fix that at some point
 
 Here's some things that I learned along the way:
 
