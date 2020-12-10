@@ -1,7 +1,7 @@
 # Screeps
 My screeps code
 
-NOTE: I am a complete noob, both in screeps as well as programming/JavaScript.
+NOTE: I am a complete noob, in screeps and in programming/JavaScript.
 I do everything by trail and error and there are probably many ways my code can be improved.
 
 I'm pretty proud of my room.mapping() function. It takes a room name and a wind direction as arguments and returns the room name located at the wind direction relative to the input room.
